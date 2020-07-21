@@ -16,7 +16,7 @@ This appliction was designed to generate a random password that can adapt to use
 * Lowercase a-z 
 * Uppercase A-Z
 * Numers 0-9
-* Special Character's (!,@,#,$,%,^,&,*,~,`,;,:)
+* Special Character's (!,",#,$,%,&,',(,),*,+,-,.,/,:,;,<,=,>,?, @,[,\\,],^,_,`,{,|,},~)
 
 ## Future actions
 
