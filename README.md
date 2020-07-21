@@ -4,19 +4,19 @@ This appliction was designed to generate a random password that can adapt to use
 
 ## Instructions:
 
-* Create a new, randomly generated, and secure password.
-* Click button to generate a password
+* Create a new randomly generated secure password.
+* User click button to generate a password
 * A series of prompts will allow user to choose from character's available for password.
-    * Prompt for length of password 
+    * Prompt display for desired length of password 
         * must be between 8 - 128 character's long
-    * Prompt for if user would like; lowercase, uppercase, numeric, and/or special characters. 
+    * Three Ok/canel display's will allow user to decided between; lowercase, uppercase, numeric, and/or special characters. 
 * When all prompts are anwsered and at least one character type is selected a password is generated that matches the selected criteria. 
 * Password will be generated in window for user.
 ### Character's Available:
 * Lowercase a-z 
 * Uppercase A-Z
 * Numers 0-9
-* Special Character's (!,@,#,$,%,^,&,*)
+* Special Character's (!,@,#,$,%,^,&,*,~,`,;,:)
 
 ## Future actions
 
@@ -25,6 +25,5 @@ Enhancing the user's experiece by adding check boxes for available options to ch
 
 The following image demonstrates the application functionality:
 
-![password generator demo](./Assets/03-javascript-homework-demo.png)
 
 
