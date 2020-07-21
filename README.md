@@ -26,4 +26,4 @@ Enhancing the user's experiece by adding check boxes for available options to ch
 The following image demonstrates the application functionality:
 
 
-
+<img width="1128" alt="Screen Shot 2020-07-20 at 6 58 17 PM" src="https://user-images.githubusercontent.com/66084311/88004056-1b10c380-cabb-11ea-9fbf-4881ce278c0c.png">
